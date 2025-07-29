@@ -1,7 +1,7 @@
  Cadastro_Cliente
  Cadastro de Clientes com Java Swing
 
-Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** para cadastro de clientes, utilizando **Java** com interface gráfica feita em **Swing**.
+Este é um projeto simples de **CRUD (Create, Read, Update, Delete) para cadastro de clientes, utilizando Java com interface gráfica feita em Swing.
 
  Tecnologias Utilizadas
  Java 11+
